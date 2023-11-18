@@ -3,3 +3,9 @@
 
 # Ignore all .png files
 *.png
+
+# Ignore the "output_videos" folder
+/output_videos/
+
+# Ignore all video files
+*.mp4
