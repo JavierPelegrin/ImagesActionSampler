@@ -1,5 +1,5 @@
 # Ignore the "img" folder
-/img/
+/imgs/
 
 # Ignore all .png files
 *.png
